@@ -17,8 +17,9 @@ Interactive Excel dashboard for analyzing product sales performance across categ
 - Pivot Tables & Charts
 - Slicers
 - Excel Formulas
+![sales dashborad](https://github.com/user-attachments/assets/35b289c8-52a1-4294-96b1-9b2adfaf6ffb)
 
 ## Dashboard Preview
-![Dashboard](sales dashborad.jpg)
+
 # product-sales-dashboard-excel
 Interactive Excel dashboard for product sales analysis with KPIs, category insights, and order status tracking.
