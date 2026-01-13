@@ -19,6 +19,6 @@ Interactive Excel dashboard for analyzing product sales performance across categ
 - Excel Formulas
 
 ## Dashboard Preview
-![Dashboard](images/sales dashboard.png)
+![Dashboard](images/sales_dashboard.png)
 # product-sales-dashboard-excel
 Interactive Excel dashboard for product sales analysis with KPIs, category insights, and order status tracking.
